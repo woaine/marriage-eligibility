@@ -1,30 +1,30 @@
 | **Attribute**                | **Description**                                              |
 |-------------------------------|--------------------------------------------------------------|
-| ID                            | Unique identifier for each individual.                      |
-| Age                           | Age of the individual.                                      |
-| Gender                        | Gender of the individual (Male/Female).                    |
-| Social_Standing               | Socio-economic status of the individual (Upper/Middle/Lower).|
-| Wealth_Level                  | Level of wealth of the individual (Low/Medium/High/Very High).|
-| Education_Level               | Level of education attained by the individual (High School/College). |
-| Family_Connections            | Strength of family connections.                            |
-| Attractiveness                | Attractiveness level of the individual.                    |
-| Health                        | Health status of the individual.                           |
-| Personality_Traits            | Personality traits of the individual.                      |
-| Number_of_Suitors             | Number of suitors interested in marriage.                  |
-| Arranged_Marriage_Likelihood  | Likelihood of an arranged marriage.                        |
-| Love_Match_Likelihood         | Likelihood of a love match.                                |
-| Court_Presence                | Presence and behavior in courtship.                        |
-| Dance_Skills                  | Proficiency in dancing.                                    |
-| Reputation                    | Social reputation of the individual.                      |
-| Marital_Status                | Current marital status.                                    |
-| Siblings_Marital_Status       | Marital status of siblings.                                |
-| Parents_Marital_Status        | Marital status of parents.                                 |
-| Dowry_Size                    | Size of the dowry involved.                                |
-| Land_Ownership                | Ownership of land.                                         |
-| Political_Influence           | Political influence of the individual.                    |
-| Religious_Devotion            | Level of religious devotion.                               |
-| Artistic_Talents              | Talents in various art forms.                              |
-| Eligible_Age                  | Age at which the individual is considered eligible for marriage. |
-| Pregnancy_Status              | Pregnancy status of the individual.                       |
-| Scandal_Involvement           | Involvement in scandals.                                  |
-| Will_Marry                    | Willingness to marry.                                      |
+| `id`                            | unique identifier for each individual.                      |
+| `age`                           | age of the individual.                                      |
+| `sex`                        | sex of the individual (male/female).                    |
+| `social_standing`               | socio-economic status of the individual (upper/middle/lower).|
+| `wealth_level`                  | level of wealth of the individual (low/medium/high/very high).|
+| `education_level`               | level of education attained by the individual (high school/college). |
+| `family_connections`            | strength of family connections.                            |
+| `attractiveness`                | attractiveness level of the individual.                    |
+| `health`                        | health status of the individual.                           |
+| `personality_traits`            | personality traits of the individual.                      |
+| `number_of_suitors`             | number of suitors interested in marriage.                  |
+| `arranged_marriage_likelihood`  | likelihood of an arranged marriage.                        |
+| `love_match_likelihood`         | likelihood of a love match.                                |
+| `court_presence`                | presence and behavior in courtship.                        |
+| `dance_skills`                  | proficiency in dancing.                                    |
+| `reputation`                    | social reputation of the individual.                      |
+| `marital_status`                | current marital status.                                    |
+| `siblings_marital_status`       | marital status of siblings.                                |
+| `parents_marital_status`        | marital status of parents.                                 |
+| `dowry_size`                    | size of the dowry involved.                                |
+| `land_ownership`                | ownership of land.                                         |
+| `political_influence`           | political influence of the individual.                    |
+| `religious_devotion`            | level of religious devotion.                               |
+| `artistic_talents`              | talents in various art forms.                              |
+| `eligible_age`                  | age at which the individual is considered eligible for marriage. |
+| `pregnancy_status`              | pregnancy status of the individual.                       |
+| `scandal_involvement`           | involvement in scandals.                                  |
+| `will_marry`                    | willingness to marry.                                      |
